@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /_mm/
+Disallow: /_notes/
+Disallow: /_baks/
+Disallow: *.csi
+Disallow: /cgi-bin/sudoers.cgi
+Crawl-delay: 5
